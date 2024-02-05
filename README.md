@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Michal</h1>
 <h3 align="center">Polish developer, Unreal Engine and ethical hacking hobbyist</h3>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanZmdGk0cDZ0bmRtdWo2YXpuejFiODlndnB3eGs5eXN3Zms2MzA5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif">
 
 - 🌱 I’m currently learning **Unreal, Android Studio, pentesting**
 
