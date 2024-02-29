@@ -6,8 +6,6 @@
 
 - 📫 How to reach me **michalbieniek02@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-www.linkedin.com/in/michał-bieniek-3150242a0
 <p align="left">
 </p>
 
