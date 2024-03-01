@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Michal</h1>
-<h3 align="center">Polish developer, Unreal Engine and ethical hacking hobbyist</h3>
+<h3 align="center">Polish developer, programming and ethical hacking hobbyist</h3>
 
-- 🌱 I’m currently learning **Unreal, Android Studio, pentesting**
+- 🌱 I’m currently learning **Android Studio and Typescript**
 
 - 📫 How to reach me **michalbieniek02@gmail.com**
 
