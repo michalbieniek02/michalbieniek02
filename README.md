@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Michal</h1>
 <h3 align="center">Polish Front-End/Web developer</h3>
 
-- 🌱 I’m currently learning ** Tailwind, Next.js and Typescript**
+- 🌱 **Next.js and Typescript**
 
 - 📫 How to reach me **michalbieniek02@gmail.com**
 
